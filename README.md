@@ -1,3 +1,6 @@
+REACT_APP_SANITY_PROJECT_ID = hwvda4do
+REACT_APP_SANITY_TOKEN = sk0SQ63uxwDRlOihWU3YiVl3PWSUIP1AR4WrostR3TJMTGfL6brX3tLTqV0kNSEcRMN1fwHxqlAwZt8nBCQyR3DwLIqVwYPvHI15bmHzI4zTal4VFJ7Ot5ZvHjb7jZSlWQAAYWep4pUAR3MIScL394M5undIfrlC5DGGhyw2NRlD3E6UJc3m
+
 # Micael - The Ultimate Web Development Portfolio 
 ![Micael](https://i.ibb.co/fHPM38q/image.png)
 
