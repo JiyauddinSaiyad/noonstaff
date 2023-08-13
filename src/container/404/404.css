@@ -1,0 +1,83 @@
+.page_404 {
+  padding: 40px 0;
+  background: #fff;
+  font-family: 'Arvo', serif;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin: auto;
+  /* margin-top: 10%; */
+  background-image: url(/src/assets/bgIMG.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  width: 90vh;
+  text-align: center;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset,
+    rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  background: #fff;
+  border-radius: 15px;
+  padding: 10px;
+  height: auto;
+  margin: auto;
+}
+
+.page_404 img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 400px;
+  background-position: center;
+  background-repeat: 1;
+  border-radius: 15px;
+}
+
+.four_zero_four_bg h1 {
+  font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+  font-size: 80px;
+}
+
+.h2 {
+  font-size: 2.5rem;
+  color: #cecece;
+}
+
+.text-center {
+  color: #cecece;
+}
+
+.pntg {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #313bac;
+  margin: 20px 0;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 25px;
+  opacity: 0.89;
+}
+
+.link_404:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+.contant_box_404 {
+  margin-top: -50px;
+}
